@@ -7,7 +7,7 @@ int main()
     printf("qual o comprimento em metros?\n");
     scanf("%f",&comprimento);
 
-    printf("qual a largura em metros?\n");
+    printf("qual a largura em metros??\n");
     scanf("%f", &largura);
 
     area = comprimento*largura;
